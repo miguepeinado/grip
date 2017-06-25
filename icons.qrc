@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="Main">
+    <file>../Icons/load.svg</file>
+    <file>../Icons/copy.svg</file>
+    <file>../Icons/save.svg</file>
+    <file>../Icons/paste.svg</file>
+    <file>../Icons/pause.svg</file>
+    <file>../Icons/settings.svg</file>
+    <file>../Icons/Flower-power-green.svg</file>
+    <file>../Icons/play.svg</file>
+    <file>../Icons/exit.svg</file>
+    <file>../Icons/new.svg</file>
+    <file>../Icons/help.svg</file>
+    <file>../Icons/clear.svg</file>
+  </qresource>
+  <qresource prefix="Canvas">
+    <file>Icons/operator.svg</file>
+    <file>../Icons/dataset.svg</file>
+  </qresource>
+  <qresource prefix="3rd-party">
+    <file>Icons/skimage_logo.png</file>
+    <file>Icons/opencv_logo.png</file>
+    <file>../Icons/Flower-power-green.svg</file>
+  </qresource>
+</RCC>
